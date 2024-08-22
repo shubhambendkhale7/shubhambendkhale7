@@ -37,7 +37,7 @@
 
 </br>
 </hr>
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambendkhale7&" alt="shubhambendkhale7" /></p>
 
 
