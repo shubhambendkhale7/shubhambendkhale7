@@ -36,6 +36,7 @@
 </div>
 
 </br>
+</hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambendkhale7&" alt="shubhambendkhale7" /></p>
 
