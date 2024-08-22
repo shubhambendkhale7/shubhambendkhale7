@@ -1,6 +1,6 @@
 ![logo](https://github.com/shubhambendkhale7/shubhambendkhale7/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Bendkhale</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambendkhale7&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambendkhale7" /> </p>
