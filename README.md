@@ -27,7 +27,6 @@
 </br>
 
 </hr>
-[![An image of @shubham_bendkhale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham_bendkhale)](https://holopin.io/@shubham_bendkhale)
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambendkhale7&" alt="shubhambendkhale7" /></p>
 
